@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PicassoDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">如果图片不能显示，请尝试更改图片Url</string>
+</resources>
