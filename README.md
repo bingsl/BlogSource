@@ -4,3 +4,4 @@
 * [3.listview与viewpager组合（二）](http://blog.csdn.net/zhesir/article/details/48878687)
 * [4.Picasso的简单使用](http://blog.csdn.net/zhesir/article/details/48879481)
 * [5.fragment与activity通信](http://blog.csdn.net/zhesir/article/details/48896315)
+* [6.ListView实现不同的item](http://blog.csdn.net/zhesir/article/details/48896923)
