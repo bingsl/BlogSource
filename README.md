@@ -5,3 +5,5 @@
 * [4.Picasso的简单使用](http://blog.csdn.net/zhesir/article/details/48879481)
 * [5.fragment与activity通信](http://blog.csdn.net/zhesir/article/details/48896315)
 * [6.ListView实现不同的item](http://blog.csdn.net/zhesir/article/details/48896923)
+* [7.startActivityForResult使用方式](http://blog.csdn.net/zhesir/article/details/48948655)
+* [8.android等待对话框](http://blog.csdn.net/zhesir/article/details/49029419)
